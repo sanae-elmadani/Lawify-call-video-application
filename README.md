@@ -1,6 +1,6 @@
 # Lawify-call-video-application
 Lawify-call-video-application is a video chat app that makes it easy to groups up with people you want to meet
-#technologies
+# echnologies
 This app is build using NodeJS, Socket.io, and Peerjs(WebRTC)
 ## How to run the project?
 Clone this repository in your local system.
